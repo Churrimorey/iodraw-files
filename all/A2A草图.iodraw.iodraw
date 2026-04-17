@@ -608,13 +608,13 @@
           <mxGeometry x="85" y="930" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-95" value="swap role" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="572" width="60" height="30" as="geometry" />
+          <mxGeometry x="165" y="572" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-96" value="swap env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="571" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="571" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-97" value="swap direc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="273.75" y="572" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
