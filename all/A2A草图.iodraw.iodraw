@@ -1001,7 +1001,7 @@
           <mxGeometry x="200" y="1631" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-237" value="role generalize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="92.5" y="1631" width="105" height="30" as="geometry" />
+          <mxGeometry x="72.5" y="1631" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-238" value="role operational" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="81.25" y="1661" width="115" height="30" as="geometry" />
@@ -1043,7 +1043,10 @@
           <mxGeometry x="88.75" y="1901" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-297" value="tips concretize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="93.75" y="1940" width="90" height="30" as="geometry" />
+          <mxGeometry x="95" y="1931" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-298" value="tips concretize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="91.25" y="1950" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
