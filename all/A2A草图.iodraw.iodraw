@@ -622,6 +622,9 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-99" value="semantic mutate role" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="560" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-100" value="semantic mutate env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="411.25" y="560" width="58.75" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
