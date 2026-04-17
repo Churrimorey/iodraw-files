@@ -1069,8 +1069,8 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-306" value="last_action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="1601" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-307" value="last_action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="1611" width="60" height="30" as="geometry" />
+        <mxCell id="aMw7g40fROvM0Ajnysks-307" value="error signature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="441.25" y="1601" width="88.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
