@@ -979,7 +979,7 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-222" value="last action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="108.75" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-223" value="last action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aMw7g40fROvM0Ajnysks-223" value="next action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="571" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
