@@ -1048,6 +1048,9 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-298" value="tips reorder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="77.5" y="1961" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-299" value="tips prune redundancy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="77.5" y="1991" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
