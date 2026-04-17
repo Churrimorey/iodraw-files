@@ -1061,7 +1061,10 @@
           <mxGeometry x="413.25" y="2070" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-303" value="score level" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="213.75" y="1591" width="60" height="30" as="geometry" />
+          <mxGeometry x="206.88" y="1601" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-305" value="score level" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="1601" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
