@@ -1001,7 +1001,7 @@
           <mxGeometry x="200" y="1631" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-237" value="role generalize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="72.5" y="1631" width="105" height="30" as="geometry" />
+          <mxGeometry x="70" y="1631" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-238" value="role operational" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="67.5" y="1661" width="115" height="30" as="geometry" />
@@ -1034,7 +1034,7 @@
           <mxGeometry x="80" y="1751" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-294" value="directive shorter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="93.75" y="1841" width="90" height="30" as="geometry" />
+          <mxGeometry x="78.75" y="1841" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-295" value="directive replace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="1871" width="90" height="30" as="geometry" />
