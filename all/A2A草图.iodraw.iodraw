@@ -1016,16 +1016,7 @@
           <mxGeometry x="100" y="1781" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-243" value="directive stricter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="1811" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-270" value="structural mutate env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="1901" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-287" value="structural mutate directive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="1931" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-288" value="structural mutate tips" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="1961" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="1811" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-290" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1041,6 +1032,9 @@
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-293" value="env scope tighten" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="1751" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-294" value="directive stricter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="93.75" y="1841" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
