@@ -1186,6 +1186,9 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-292" value="action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="1591" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-293" value="env scope tighten" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="1751" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
