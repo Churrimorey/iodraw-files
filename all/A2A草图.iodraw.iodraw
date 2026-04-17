@@ -602,7 +602,7 @@
           <mxGeometry x="520" y="930" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-93" value="structural mutate directive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="85" y="900" width="80" height="30" as="geometry" />
+          <mxGeometry x="70" y="900" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-94" value="structural mutate tips" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="930" width="80" height="30" as="geometry" />
@@ -780,6 +780,9 @@
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-152" value="structural mutate env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="560" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-153" value="structural mutate directive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="560" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
