@@ -1070,7 +1070,7 @@
           <mxGeometry x="27.5" y="1901" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-310" value="rollback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="92.5" y="2090" width="60" height="30" as="geometry" />
+          <mxGeometry x="93.75" y="2080" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-311" value="multi_component_swap" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="28.75" y="2120" width="190" height="31" as="geometry" />
