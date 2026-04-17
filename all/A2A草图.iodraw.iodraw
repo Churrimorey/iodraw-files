@@ -1039,8 +1039,11 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-295" value="directive replace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="1871" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-296" value="directive replace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="1881" width="90" height="30" as="geometry" />
+        <mxCell id="aMw7g40fROvM0Ajnysks-296" value="tips strengthen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="88.75" y="1901" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-297" value="tips strengthen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="98.75" y="1911" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
