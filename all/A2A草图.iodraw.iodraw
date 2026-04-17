@@ -782,7 +782,10 @@
           <mxGeometry x="620" y="560" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-153" value="structural mutate directive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="560" width="95" height="30" as="geometry" />
+          <mxGeometry x="660" y="560" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-154" value="structural mutate tips" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="555" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
