@@ -1055,7 +1055,10 @@
           <mxGeometry x="58.75" y="2019" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-301" value="&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; float: none; display: inline !important;&quot;&gt;multi_component_swap&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="2120" width="200" height="40" as="geometry" />
+          <mxGeometry x="165" y="2120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-302" value="&lt;span style=&quot;font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium; float: none; display: inline !important;&quot;&gt;rollback&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="413.25" y="2070" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
