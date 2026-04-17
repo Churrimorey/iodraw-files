@@ -604,7 +604,7 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-93" value="structural mutate direct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="900" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-94" value="structural mutate direct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aMw7g40fROvM0Ajnysks-94" value="structural mutate tips" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="930" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
