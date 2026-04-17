@@ -613,8 +613,11 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-96" value="swap env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="570" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-97" value="swap direc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aMw7g40fROvM0Ajnysks-97" value="swap directive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="570" width="56.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-98" value="swap tips" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
