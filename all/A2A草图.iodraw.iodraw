@@ -967,8 +967,8 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-214" value="structural mutate tips" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="1470" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-219" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="1210" width="60" height="30" as="geometry" />
+        <mxCell id="aMw7g40fROvM0Ajnysks-219" value="Current prompts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1100" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
