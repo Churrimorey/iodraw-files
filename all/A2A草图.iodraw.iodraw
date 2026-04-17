@@ -1075,6 +1075,12 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-309" value="&lt;code style=&quot;text-align: start;&quot; data-end=&quot;5452&quot; data-start=&quot;5422&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;directive_make_more_stepwise&lt;/font&gt;&lt;/code&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="27.5" y="1901" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-310" value="rollback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMw7g40fROvM0Ajnysks-311" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1959" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
