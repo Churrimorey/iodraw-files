@@ -1057,8 +1057,8 @@
         <mxCell id="aMw7g40fROvM0Ajnysks-305" value="refusal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="1601" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aMw7g40fROvM0Ajnysks-306" value="last action" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="275" y="1601" width="60" height="30" as="geometry" />
+        <mxCell id="aMw7g40fROvM0Ajnysks-306" value="tool call error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="275" y="1601" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-307" value="error signature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="346.25" y="1601" width="88.75" height="30" as="geometry" />
