@@ -52,8 +52,8 @@
         <mxCell id="izBMHjTpGOxk7iM_yeTn-38" value="semantic mutate env" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="750" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="izBMHjTpGOxk7iM_yeTn-39" value="semantic mutate direct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="780" width="80" height="30" as="geometry" />
+        <mxCell id="izBMHjTpGOxk7iM_yeTn-39" value="semantic mutate directive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="70" y="780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="izBMHjTpGOxk7iM_yeTn-40" value="semantic mutate tips" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="810" width="80" height="30" as="geometry" />
