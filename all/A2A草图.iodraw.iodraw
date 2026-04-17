@@ -1034,7 +1034,7 @@
           <mxGeometry x="80" y="1751" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-294" value="directive shorter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="78.75" y="1841" width="90" height="30" as="geometry" />
+          <mxGeometry x="77.5" y="1841" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-295" value="directive replace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="77.5" y="1871" width="90" height="30" as="geometry" />
@@ -1052,7 +1052,7 @@
           <mxGeometry x="58.75" y="1991" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMw7g40fROvM0Ajnysks-300" value="tips prune redundancy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="68.75" y="2001" width="127.5" height="30" as="geometry" />
+          <mxGeometry x="60" y="2021" width="127.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
